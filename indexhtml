@@ -1,0 +1,155 @@
+Rangkuman Bab 3 · Hukum Internasional: Suatu Pengantar (Sefriani)
+
+# Hubungan Hukum Internasional dan Hukum Nasional
+
+Singkatan yang dipakai: HI = Hukum Internasional, HN = Hukum Nasional. Bab ini membahas teori hubungan keduanya, bagaimana HN dipandang di pengadilan internasional, bagaimana HI diperlakukan di pengadilan nasional (Inggris, AS, Indonesia), dan bagaimana keduanya saling memengaruhi.
+
+[A. Monisme dan Dualisme](#teori) [B. HN di Pengadilan Internasional](#pi) [C. HI di Pengadilan Nasional](#pn) [Praktik di Indonesia](#indonesia) [D. Saling Memengaruhi](#saling)
+
+## A. Teori Monisme dan Dualisme
+
+Hubungan HI–HN menjawab tiga pertanyaan pokok:
+
+1. Apakah HI dan HN satu kesatuan hukum atau terpisah sama sekali?
+2. Mana yang diutamakan jika keduanya berkonflik?
+3. Dapatkah HI menjadi HN dan HN menjadi HI?
+
+### 1. Monisme
+
+HI dan HN adalah dua kesatuan hukum dalam satu sistem hukum yang lebih besar. Karena satu sistem, HI berlaku (terinkorporasi) langsung di lingkungan HN, setara dengan HN, tanpa perlu diubah lebih dulu menjadi HN. Karena satu sistem pula, konflik antara keduanya sangat mungkin terjadi, sehingga monisme terpecah menjadi dua:
+
+#### Monisme primat HN
+
+HI berasal dari HN (misalnya hukum kebiasaan tumbuh dari praktik negara), maka HN lebih tinggi. Bila konflik, HN yang diutamakan.
+
+**Kritik:** berbahaya bagi hubungan internasional. Untuk apa ada HI jika HN selalu menang? Aliran ini pada dasarnya tidak mengakui eksistensi HI dan dapat menimbulkan anarki.
+
+#### Monisme primat HI
+
+HN bersumber dari HI, maka HI lebih tinggi. Bila konflik, HI yang diutamakan.
+
+**Kritik:** sangat ideal dan sesuai kebutuhan tata tertib hukum internasional, tetapi tidak sesuai fakta bahwa HI lebih banyak bersumber dari praktik negara (HN).
+
+### 2. Dualisme
+
+HI dan HN adalah dua sistem hukum yang sangat berbeda dan terpisah sama sekali. Perbedaannya:
+
+| Aspek | HI | HN |
+| --- | --- | --- |
+| Subjek | Negara-negara | Individu |
+| Sumber hukum | Kehendak bersama negara | Kehendak negara |
+| Integritas | Kurang sempurna | Lebih sempurna dibanding HI |
+| Prinsip dasar (menurut Anzilotti) | Perjanjian antarnegara harus dihormati (*pacta sunt servanda*) | Aturan negara (*state legislation*) harus dipatuhi |
+
+Karena terpisah, yang muncul bukan masalah **hierarki** (mana yang diutamakan), melainkan masalah **transformasi**: HI hanya dapat berlaku di HN setelah ditransformasikan menjadi HN, dan demikian pula sebaliknya.
+
+## B. Hukum Nasional di Depan Pengadilan Internasional
+
+Praktik di pengadilan internasional menunjukkan:
+
+1. Negara tidak dapat memakai HN-nya yang bertentangan dengan HI untuk membenarkan pelanggaran HI terhadap pihak lain (sejalan dengan Pasal 27 Konvensi Wina 1969).
+2. Negara tidak dapat memakai alasan ketiadaan HN untuk membenarkan pelanggaran HI (contoh: *Alabama Claims Arbitration*, Inggris tidak dapat berdalih tidak ada aturan HN untuk melarang kapal buatan Liverpool terlibat dalam Perang Saudara Amerika).
+3. Tanggung jawab internasional timbul hanya ketika negara gagal memenuhi kewajiban internasional (bukan karena menolak mengubah HN-nya).
+4. HN hanya dapat diajukan di pengadilan internasional sepanjang tidak bertentangan dengan HI.
+5. HN dapat diajukan sebagai bukti adanya praktik hukum kebiasaan internasional.
+6. HN dapat digunakan jika ada pilihan hukum (*choice of law*) oleh para pihak.
+7. Pengadilan internasional dapat memutus bahwa suatu HN tidak memenuhi kewajiban HI, tetapi tidak berhak menyatakan HN itu *valid or invalid*, karena itu urusan domestik. HN yang bertentangan dengan HI mungkin efektif secara nasional, tetapi tidak di tingkat internasional.
+
+Kesimpulan: di pengadilan internasional, **kedudukan HI superior atas HN**. Hal ini dikenal sebagai **teori oposabilitas**.
+
+### Contoh penerapan
+
+**Inpres No. 2 Tahun 1996 (Mobil Nasional).** Indonesia tidak dapat memakainya untuk membenarkan pelanggaran prinsip MFN dalam GATT/WTO terhadap Jepang dan AS di depan *Dispute Settlement Body* WTO.
+
+**PP No. 38 Tahun 2002 (peta wilayah yang memuat Sipadan Ligitan).** Tidak dapat dipakai sebagai bukti karena melanggar prinsip *critical date*: bukti harus sudah ada sebelum sengketa muncul. Sengketa muncul sejak 1969, sedangkan PP ini terbit hanya 6 bulan menjelang putusan Mahkamah Internasional, sehingga dianggap bukti rekayasa.
+
+**Maritime Identification Zone (MIZ) Australia (2004).** JPOC diberi wewenang meminta informasi identitas, muatan, tujuan, dan lain-lain kepada kapal dalam radius 100 mil, dengan luas zona ± 1.000 mil laut. Ini berpotensi melanggar kedaulatan laut wilayah dan perairan pedalaman Indonesia, dan bertentangan dengan Konvensi Hukum Laut 1982 (di laut bebas negara tidak punya yurisdiksi semacam itu, kecuali terhadap bajak laut dan kapal pengangkut budak, Pasal 99 dan 100). Berdasarkan teori oposabilitas, Australia tidak dapat memakai HN-nya untuk membenarkan pelanggaran tersebut.
+
+## C. Hukum Internasional di Depan Pengadilan Nasional
+
+Perlakuan terhadap HI berbeda-beda antarnegara; mayoritas negara mengaturnya dalam konstitusi tertulis. Ada dua doktrin utama:
+
+#### Doktrin inkorporasi
+
+HI berlaku otomatis menjadi bagian dari HN tanpa adopsi sebelumnya. Adopsi hanya perlu bila ada kebijakan lain. Perjanjian yang sudah ditandatangani atau diratifikasi langsung mengikat warga negara tanpa HN pelaksana.
+
+Konsekuensi logis dari **monisme**.
+
+#### Doktrin transformasi
+
+HI tidak menjadi HN kecuali atau sampai diimplementasikan dalam HN lebih dulu. Setelah ditransformasikan, statusnya menjadi HN dan dapat dipakai pengadilan sebagai sumber hukum.
+
+Konsekuensi logis dari **dualisme**.
+
+### 1. Praktik di Inggris
+
+Awalnya Inggris menerapkan *Blackstone doctrine* (inkorporasi): HI adalah bagian dari *common law* sehingga berlaku tanpa syarat. Dalam perkembangannya, hukum kebiasaan internasional berlaku di pengadilan Inggris dengan syarat:
+
+- Tidak bertentangan dengan peraturan Inggris, baik yang lebih dulu maupun yang kemudian.
+- Ketentuan yang sudah diterima dalam putusan pengadilan Inggris mengikat pengadilan berikutnya, meskipun hukum kebiasaan internasionalnya kemudian berubah.
+
+**Tin Council Case:** meski menganut inkorporasi, hak yang diakui hukum kebiasaan internasional tidak otomatis dapat dilaksanakan di pengadilan nasional; harus dipastikan hak itu memang ditujukan untuk dioperasionalkan dalam sistem hukum nasional. Putusan cenderung dualisme. Dalam **R v Keyn**, hukum kebiasaan tentang laut teritorial dinilai tidak dapat berlaku sebelum diadopsi secara eksplisit (cenderung transformasi).
+
+**Kesimpulan praktik Inggris (hukum kebiasaan):** diterapkan sebagai bagian HN; harus dirumuskan dengan hati-hati dan didukung bukti; tidak tunduk pada doktrin *stare decisis*; tidak diterapkan bila bertentangan dengan HN yang fundamental, baik yang lahir lebih dulu maupun belakangan.
+
+**Perjanjian internasional** dibedakan menjadi dua:
+
+- ***Unincorporated treaties*:** perjanjian yang materinya penting dan prinsipil (batas wilayah, HAM, hak dan kewajiban warga negara, keuangan). Perlu persetujuan parlemen dan belum berakibat hukum di pengadilan Inggris sebelum diimplementasikan dalam HN.
+- ***Incorporated treaties*:** perjanjian teknis yang tidak begitu prinsipil; otomatis menjadi bagian HN Inggris.
+
+### 2. Praktik di Amerika Serikat
+
+Tidak jauh berbeda dengan Inggris. Dalam *The Paquete Habana* (1900), pengadilan AS menegaskan bahwa HI adalah bagian dari hukum AS dan harus ditentukan serta dijalankan oleh pengadilan, dengan merujuk pada kebiasaan bangsa-bangsa beradab bila tidak ada perjanjian atau tindakan eksekutif/legislatif/yudisial yang mengendalikan.
+
+- Hukum kebiasaan menempati kedudukan penting, tetapi bila berkonflik, HN diutamakan. Dalam *Tag v Rogers*, pengadilan AS tidak berwenang menyatakan *null and void* suatu HN yang disetujui kongres hanya karena bertentangan dengan hukum kebiasaan internasional.
+- Di bawah *Alien Tort Claim Act* (ATCA), banyak kasus pelanggaran hukum kebiasaan internasional diajukan orang asing. Dalam *Filartiga v Pena Irala*, penyiksaan oleh aparat Paraguay dinilai melanggar hukum kebiasaan internasional dan cukup sebagai dasar yurisdiksi pengadilan AS, meski korban, pelaku, dan tempat kejadian di Paraguay.
+- Perjanjian dibedakan menjadi ***self executing treaties*** (berlaku dengan sendirinya, tidak perlu persetujuan Kongres; contoh: masalah teknis administratif, kerja sama teknik, sosial budaya) dan ***non self executing treaties*** (perlu persetujuan Kongres; contoh: kewarganegaraan, HAM, garis batas wilayah, politik luar negeri).
+
+## 3. Praktik di Indonesia
+
+Konstitusi Indonesia *silent* terhadap HI. Yang bisa dikaitkan hanya *preambule* (tujuan ikut mewujudkan tata tertib dunia), dan UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan sama sekali tidak menyebut HI. Para pakar berpendapat Indonesia menganut dualisme, monisme, atau keduanya. Menurut penulis, Indonesia menganut **keduanya**.
+
+### a. Bukti Indonesia menganut monisme
+
+1. **Putusan MA (Eurico Guterres).** Perkara pidana HAM terhadap mantan Wakil Panglima Pasukan Pejuang Integrasi Timor Timur. MA merujuk langsung ke perjanjian internasional tanpa bergantung pada peraturan perundang-undangan nasional.
+2. **Putusan Mahkamah Konstitusi** memakai perjanjian HAM yang belum diratifikasi Indonesia, seperti Statuta Roma 1998, sebagai dasar pertimbangan (Putusan MK No. 2-3/PUU-V/2007).
+3. **Putusan MA No. 1794 K/Pdt/2004 (longsor Gunung Mandalawangi, Garut).** Hakim menyatakan HI berstatus *jus cogens* dapat diterapkan langsung di Indonesia, memakai *precautionary principle* (Prinsip 15 Deklarasi Rio 1992) yang dipandang berstatus *jus cogens*. Prinsip ini membantu memenangkan gugatan melawan PT Perhutani dkk. Saat itu belum ada hukum positif tentang prinsip tersebut (baru diakomodasi UU No. 32 Tahun 2009 tentang PPLH), sehingga penggunaannya adalah penemuan hukum untuk mengisi kekosongan hukum.
+4. **Imunitas kepala negara asing** dihormati meski belum ada hukum positifnya; imunitas ini berasal dari hukum kebiasaan internasional. Imunitas diplomat asing juga sudah diterapkan jauh sebelum Indonesia meratifikasi Konvensi Wina 1961 dan 1963 (UU No. 1 Tahun 1982).
+5. **UU No. 37 Tahun 1999 tentang Hubungan Luar Negeri** menyatakan hubungan luar negeri diselenggarakan sesuai politik luar negeri, peraturan perundang-undangan nasional, *dan hukum serta kebiasaan internasional*, yang menunjukkan komitmen pada hukum kebiasaan internasional.
+6. Indonesia meratifikasi Konvensi Wina 1961 (hubungan diplomatik), 1963 (hubungan konsuler), dan Misi Khusus; mengadopsi *London Dumping Convention* 1972; serta menjadi pihak pada CITES, Konvensi Basel, dan CBD.
+
+Dari praktik ini, hukum kebiasaan internasional dapat berlaku otomatis sebagai bagian HN tanpa menunggu baju hukum nasional atau status *jus cogens*. Ini berbeda dari pendapat hakim dalam kasus Mandalawangi, yang mensyaratkan status *jus cogens*.
+
+**HN Indonesia tidak selalu sesuai HI.** Contoh: Pasal 3 ayat (1) huruf d UU No. 36 Tahun 2008 tentang Pajak Penghasilan mengenakan pajak atas WNI yang bekerja pada organisasi internasional termasuk PBB. Ini bertentangan dengan Article 18 section b *Convention on the Privileges and Immunities of the United Nations* 1946, padahal Indonesia terikat perjanjian itu (disahkan melalui Perpres No. 51 Tahun 1969).
+
+### b. Bukti Indonesia menganut dualisme
+
+Menurut dualisme, HI tidak bisa langsung berlaku di HN sebelum dibuatkan baju hukumnya. Praktiknya sering tidak konsisten.
+
+- **Konvensi Hukum Laut 1982** disahkan dengan UU No. 17 Tahun 1985, lalu dielaborasi dalam UU No. 5 Tahun 1983 (ZEE), UU No. 6 Tahun 1996 (Perairan Indonesia, menggantikan UU No. 4 PRP Tahun 1960), PP tentang ALKI, UU Perikanan, dan lain-lain.
+- **Persetujuan WTO (Uruguay Round 1994)** diratifikasi dengan UU No. 7 Tahun 1994, lalu ditindaklanjuti, misalnya UU No. 10 Tahun 1998 tentang Perbankan (mengadopsi ketentuan GATS/WTO), UU Merek, UU Paten.
+- **Konvensi New York 1958** (pengakuan dan pelaksanaan putusan arbitrase asing), diratifikasi dengan Keppres No. 58 Tahun 1981. Beberapa hakim menolak melaksanakan putusan arbitrase asing karena belum ada aturan pelaksananya, sehingga MA menerbitkan Perma No. 1 Tahun 1990. Ratifikasi saja belum cukup untuk memberlakukan HI.
+- **Putusan MK tentang UU No. 1/PNPS/1965** (pencegahan penyalahgunaan dan penodaan agama): hakim menyatakan Article 18 ICCPR telah diadopsi langsung oleh UU No. 39 Tahun 1999 tentang HAM, yaitu UU HAM dianggap bentuk transformasi ICCPR.
+
+**Pembanding:** Konvensi Wina 1961 dan 1963 setelah diratifikasi (UU No. 1 Tahun 1982) langsung diterapkan dalam bentuk aslinya sebagai perjanjian internasional, dan praktik ini tidak diprotes.
+
+### UU No. 24 Tahun 2000 tentang Perjanjian Internasional
+
+| Jenis perjanjian | Bentuk pengesahan |
+| --- | --- |
+| Menyangkut (Pasal 10): politik, perdamaian dan hankam; perubahan wilayah/penetapan batas wilayah RI; kedaulatan negara; HAM dan lingkungan hidup; pembentukan kaidah hukum baru; pinjaman dan/atau hibah luar negeri | Undang-undang, dengan persetujuan DPR |
+| Di luar materi di atas, bersifat prosedural dan butuh waktu singkat (kerja sama IPTEK, ekonomi, teknik, perdagangan, kebudayaan, pelayaran niaga, penghindaran pajak berganda, perlindungan PMA, dan lain-lain), Pasal 11 | Keputusan Presiden, tanpa persetujuan DPR |
+
+Meski sudah ada UU ini, masih tidak jelas apakah Indonesia menganut monisme atau dualisme, antara lain: apakah perjanjian yang diratifikasi dengan UU atau Keppres langsung berlaku bagi masyarakat atau perlu aturan pelaksana, dan apakah MK dapat membatalkan UU ratifikasi melalui *judicial review*. Jika dapat, akan timbul masalah internasional, karena Indonesia tidak dapat membatalkan keikutsertaannya dalam perjanjian secara sepihak. Terlepas dari perdebatan ahli hukum tata negara, **bagi hukum internasional, sekali Indonesia meratifikasi, aturan itu otomatis mengikat Indonesia dengan segala konsekuensi hukumnya.**
+
+## D. HI dan HN Saling Memengaruhi dan Membutuhkan
+
+HN tidak berpengaruh pada kewajiban negara di tingkat internasional, tetapi HI tidak sama sekali mengabaikan HN. Hubungan keduanya tidak harus dilihat dari perspektif hierarki atau konfrontasi; dalam praktik keduanya saling membutuhkan:
+
+1. **HI lebih efektif bila ditransformasikan ke HN.** Meski telah meratifikasi GATT/WTO 1994, Indonesia pernah tidak dapat memakai anti dumping maupun *safeguard* karena belum membentuk Komite Anti Dumping Nasional dan Komite Perlindungan Perdagangan Indonesia sebagaimana diamanatkan GATT/WTO.
+2. **HI menjembatani ketika HN tidak dapat diterapkan di wilayah negara lain.** Contoh: perjanjian ekstradisi untuk buronan yang lari ke luar negeri; perjanjian bilateral *asset recovery* untuk aset hasil korupsi di luar negeri; perjanjian pengakuan dan pelaksanaan putusan asing untuk menyita aset debitur di luar negeri.
+3. **HI mengharmonisasikan perbedaan dalam HN.** Contoh: ambang batas pencemaran laut berbeda antarnegara, sehingga ASEAN merumuskan perjanjian dengan parameter pencemaran minyak di pantai.
+4. **HI banyak tumbuh dari praktik HN negara-negara.** Contoh: Konvensi Hubungan Diplomatik tumbuh dari praktik negara terhadap utusan asing sejak zaman Yunani Kuno.
+5. **Negara punya *prescription jurisdiction*** (wewenang membuat peraturan dalam HN-nya), tetapi dalam praktik tidak dapat membuat aturan seenaknya tanpa melihat aturan HI yang sudah ada.
+
+Rangkuman disusun dari Bab 3 buku *Hukum Internasional: Suatu Pengantar* (Edisi Kedua), Sefriani, hlm. 75–91.
